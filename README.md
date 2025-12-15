@@ -34,5 +34,3 @@ It allows students to learn through interactive content, track their progress, a
 | **Version Control** | Git & GitHub |
 
 ---
-
-## 📁 Folder Structure
